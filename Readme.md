@@ -2,7 +2,7 @@
 
 This repository contains solutions to various JavaScript problems.
 
-#STRING
+##STRING
 
 ## 1. Check if an Input is a String
 
